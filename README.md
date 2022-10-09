@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Manavp7
-- 👀 I’m interested in app development
 - 🌱 I’m currently learning c++ and java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - instagram.com/its_manav7
