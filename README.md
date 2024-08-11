@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manavp7
-- 🌱 I’m currently learning c++ and java
 
+you can just download the code and use it 
 
 <!---
 Manavp7/Manavp7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
